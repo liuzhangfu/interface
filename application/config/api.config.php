@@ -7,8 +7,8 @@
 $api_config = array(
     /* 接口基本设定 */
 	'api' => array(
-		'shop_name' 			=> '百次幂商城',
-		'http_host' 			=> 'http://LIUZHANGFU.COM/',
+		'shop_name' 			=> '商城',
+		'http_host' 			=> 'http://www.liuzhangfu.com/',
 		'hash_code'				=> 'd44426bd5b64dd2ce05e88473bb59429',
 		'price_format'			=> '0', // 商品价格显示规则;0:不处理,1:保留不为0的尾数,2:不四舍五入,保留一位小数,3:不四舍五入,不保留小数,4:先四舍五入,保留一位小数,5:先四舍五入,不保留小数
 		'currency_format' 		=> '￥%s元', // 显示商品价格的格式，%s将被替换为相应的价格数字。
