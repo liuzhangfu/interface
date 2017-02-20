@@ -23,8 +23,8 @@ $api_config = array(
 	),
     /* 阿里大鱼短信参数设置 */
     'alidayu' => array(
-        'APP_KEY'               => '23385833',
-        'APP_SECRET'            => '3b54b854bd42235e9a850d317b71b83d',
+        'APP_KEY'               => '123',
+        'APP_SECRET'            => '123',
         'method'                => 'alibaba.aliqin.fc.sms.num.send', // 短信模块
         'format'                => 'json', // 返回格式xml/json
     ),
