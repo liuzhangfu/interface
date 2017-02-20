@@ -1,0 +1,44 @@
+2016-09-10 14:30:30 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT oi.add_time,oi.order_id,c.comment_id,c.comment_rank,c.pics,c.content,g.goods_thumb FROM ecs_comment AS c LEFT JOIN ecs_goods AS g ON g.goods_id = c.id_value WHERE c.id_value = :goods_id GROUP BY c.comment_id LIMIT 8", ErrorInfo: Unknown column 'oi.add_time' in 'field list'
+2016-09-10 18:07:00 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:00 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:00 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:34 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:35 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:35 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:35 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:48 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:48 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:07:49 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT address_id,consignee,address,tel,mobile,country,province,city,district 
+                FROM user_address 
+                WHERE user_id = 10", ErrorInfo: Table 'shop.user_address' doesn't exist
+2016-09-10 18:10:45 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT region_name FROM ecs_ region WHERE region_id = :region_id", ErrorInfo: Table 'shop.ecs_' doesn't exist
+2016-09-10 18:10:46 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT region_name FROM ecs_ region WHERE region_id = :region_id", ErrorInfo: Table 'shop.ecs_' doesn't exist
+2016-09-10 18:10:47 | 127.0.0.1 | /interface/index.php |Database SQL: "SELECT region_name FROM ecs_ region WHERE region_id = :region_id", ErrorInfo: Table 'shop.ecs_' doesn't exist
+2016-09-10 18:29:19 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:29:21 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:29:43 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:29:44 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:29:45 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:29:54 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:29:55 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:30:20 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:30:20 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
+2016-09-10 18:30:21 | ::1 | /interface/index.php |home\article_controller.class.php 控制器类不存在
