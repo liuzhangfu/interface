@@ -206,8 +206,8 @@ define('TO_R',                      2); //兑换到商城等级积分
 define('FROM_R',                    3); //用商城等级积分兑换
 
 /* 支付宝商家账户 */
-define('ALIPAY_AUTH', 'gh0bis45h89m5mwcoe85us4qrwispes0');
-define('ALIPAY_ID', '2088002052150939');
+define('ALIPAY_AUTH', 'sfsa');
+define('ALIPAY_ID', 'safsa');
 
 /* 添加feed事件到UC的TYPE*/
 define('BUY_GOODS',                 1); //购买商品
